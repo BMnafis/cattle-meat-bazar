@@ -19,3 +19,40 @@ body {
 .mynav li a {
   font-weight: 500;
 }
+/* Slider */
+.slider {
+  background-color: #e2e2e2;
+}
+.slide-item {
+  height: 500px;
+}
+/* .img-wrap {
+  width: 400px;
+}
+.img-wrap img {
+  width: 100%;
+} */
+.slide-btn {
+  margin-top: 30px;
+}
+.slide-btn button {
+  display: inline-block;
+  background-color: #fec529;
+  color: #fff;
+  transition: 0.3s;
+  border-radius: 20px;
+  padding: 8px 25px;
+}
+.slide-btn button:hover {
+  background-color: #333;
+  color: #fff;
+}
+.slide-left-text h5 {
+  font-size: 14px;
+}
+.slide-left-text h1 {
+  font-weight: 600;
+}
+.slide-left-text p {
+  font-size: 14px;
+}
